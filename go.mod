@@ -1,3 +1,3 @@
-module repo.zrb8.cn/lee/channel/core
+module github.com/zrb-channel/core
 
 go 1.19
